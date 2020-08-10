@@ -1,0 +1,10 @@
+{
+  "FileTypes": {
+    "Excel": [".xlsx"],
+    "Txt": [".txt"],
+    "Word": [".docx"],
+    "PowerPoint": [".pptx"],
+    "Image": [".png", ".jpg", ".PNG"]
+  },
+  "Location": "."
+}
